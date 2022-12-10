@@ -1,4 +1,6 @@
 # Sorting_Visualizer
+**Deployed Project**
+rohan-raj-sortingvisualizer.netlify.app
 
 A web application showcasing the inner workings of sorting algorithms.
 
